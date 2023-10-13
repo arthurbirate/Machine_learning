@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 
 st.header(
-    "Maternal Health risk High risk , Mid risk and Low risk predictions")
+    "Maternal Health risk dataset: High risk , Mid risk and Low risk predictions")
 
 
 health_data = pd.read_csv("Maternal Health Risk Data Set.csv")
